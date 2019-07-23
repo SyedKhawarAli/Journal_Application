@@ -2,20 +2,20 @@
 //dummy database
 const post1 = {
     id: 1,
-    title: "title 1",
-    body: "here is my body 1"
+    title: "Title 1",
+    body: "Here is my body 1"
 }
 
 const post2 = {
     id: 2,
-    title: "title 2",
-    body: "here is my body 2"
+    title: "Title 2",
+    body: "Here is my body 2"
 }
 
 const post3 = {
     id: 3,
-    title: "title 3",
-    body: "here is my body 3"
+    title: "Title 3",
+    body: "Here is my body 3"
 }
 
 const allPosts = [post1, post2, post3]
